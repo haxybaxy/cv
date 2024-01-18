@@ -133,6 +133,8 @@ export default function Page() {
                 </CardHeader>
                 <CardContent className="mt-2 text-xs">
                   {work.description}
+                  <br />
+                  {work.stack}
                 </CardContent>
               </Card>
             );

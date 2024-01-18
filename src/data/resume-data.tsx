@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Engineer | Focused and Motivated",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "Versatile full-stack software developer and AI engineer currently pursuing a bachelor's degree in computer science. Known for a holistic, interdisciplinary approach and a strong commitment to continuous learning.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://haxybaxy.github.io/",
   contact: {
@@ -56,15 +56,16 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      company: "Robotics and AI Club - IE University",
+      link: "https://www.ieroboticsclub.com/",
+      badges: [], // string goes in here
+      title: "Software Developer and Head of Research",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "2023",
+      end: "Present",
       description:
         "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+      stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
       company: "Clevertech",
@@ -75,7 +76,8 @@ export const RESUME_DATA = {
       start: "2015",
       end: "2021",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch.",
+      stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
       company: "Jojo Mobile",
@@ -87,6 +89,7 @@ export const RESUME_DATA = {
       end: "2015",
       description:
         "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
       company: "Nokia Siemens Networks",
@@ -97,6 +100,7 @@ export const RESUME_DATA = {
       start: "2010",
       end: "2012",
       description: "Creating and testing software for LTE base stations",
+      stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
   ],
   skills: [
