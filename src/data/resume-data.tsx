@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer | Focused and Motivated",
   summary:
     "Versatile full-stack software developer and AI engineer currently pursuing a bachelor's degree in computer science. Known for a holistic, interdisciplinary approach and a strong commitment to continuous learning.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/",
   personalWebsiteUrl: "https://haxybaxy.github.io/",
   contact: {
     email: "zaidksaheb@gmail.com",
@@ -63,8 +63,11 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       start: "2023",
       end: "Present",
-      description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+      description: [
+        "Led multiple teams developing AI/ML models using NLP, Computer Vision, and others, to create 6+ different projects.",
+        "Presented 10+ hands-on workshops to 30+ attendees about open source development, state of the art ML models, and generative AI. Utilized working demos of AI/ML models and other projects for greater attendee interaction.",
+        "Maintaining Club Website and GitHub with front-end and back-end design and managing developer projects with GitHub.",
+      ],
       stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
@@ -75,8 +78,12 @@ export const RESUME_DATA = {
       logo: ClevertechLogo,
       start: "2015",
       end: "2021",
-      description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch.",
+      description: [
+        "Implemented new features",
+        "Led squad",
+        "Worked on improving the way developers ship the code",
+        "Started migration from Emotion to Tailwind CSS and more.",
+      ],
       stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
@@ -87,8 +94,12 @@ export const RESUME_DATA = {
       logo: JojoMobileLogo,
       start: "2012",
       end: "2015",
-      description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+      description: [
+        "Implemented new features",
+        "Led squad",
+        "Worked on improving the way developers ship the code",
+        "Started migration from Emotion to Tailwind CSS and more.",
+      ],
         stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
@@ -99,7 +110,12 @@ export const RESUME_DATA = {
       logo: NSNLogo,
       start: "2010",
       end: "2012",
-      description: "Creating and testing software for LTE base stations",
+      description: [
+        "Implemented new features",
+        "Led squad",
+        "Worked on improving the way developers ship the code",
+        "Started migration from Emotion to Tailwind CSS and more.",
+      ],
       stack: "Android, Kotlin, React, TypeScript, GraphQL",
     },
   ],
