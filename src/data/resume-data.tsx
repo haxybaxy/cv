@@ -51,7 +51,7 @@ export const RESUME_DATA = {
         "Presented 10+ hands-on workshops to 30+ attendees about open source development, state of the art ML models, and generative AI. Utilized working demos of AI/ML models and other projects for greater attendee interaction.",
         "Maintaining Club Website and GitHub with front-end and back-end design and managing developer projects with GitHub.",
       ],
-      stack: "TensorFlow, PyTorch, OpenCV, Astro.js, Express.js, Node.js, MongoDB, Python, ",
+      stack: "TensorFlow, PyTorch, OpenCV, Astro.js, Express.js, Node.js, MongoDB, Python",
     },
     {
       company: "Mind & Mood",
