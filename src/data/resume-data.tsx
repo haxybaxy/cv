@@ -12,7 +12,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer | Focused and Motivated",
   summary:
     "Versatile full-stack software developer and AI engineer currently pursuing a bachelor's degree in computer science. Known for a holistic, interdisciplinary approach and a strong commitment to continuous learning.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/haxybaxy",
+  avatarUrl: "https://i.imgur.com/PM0G5s3.png",
   personalWebsiteUrl: "https://haxybaxy.github.io/",
   contact: {
     email: "zaidksaheb@gmail.com",
