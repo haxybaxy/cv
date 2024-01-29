@@ -94,6 +94,8 @@ export const RESUME_DATA = {
     "MySQL",
     "MongoDB",
     "Python",
+    "pandas",
+    "NumPy",
     "TensorFlow",
     "PyTorch",
     "OpenCV",
@@ -159,6 +161,15 @@ export const RESUME_DATA = {
       link: {
         label: "mindandmood.org",
         href: "https://www.mindandmood.org/",
+      },
+    },
+    {
+      title: "AI Hackathon 2023",
+      techStack: ["Side Project", "Python", "OpenAI API", "pandas"],
+      description: "Solution for the AI Hackathon 2023 by Foqum Analytics, extracting financial data from term sheets. Runner-Up with 96% accuracy.",
+      link: {
+        label: "github.com",
+        href: "https://github.com/haxybaxy/aihackathon2023",
       },
     },
   ],
