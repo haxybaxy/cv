@@ -12,7 +12,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer | Focused and Motivated",
   summary:
     "Versatile full-stack software developer and AI engineer currently pursuing a bachelor's degree in computer science. Known for a holistic, interdisciplinary approach and a strong commitment to continuous learning.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/",
+  avatarUrl: "https://avatars.githubusercontent.com/u/haxybaxy",
   personalWebsiteUrl: "https://haxybaxy.github.io/",
   contact: {
     email: "zaidksaheb@gmail.com",
@@ -113,150 +113,53 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
-      techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
-      ],
-      description: "A platform to build and grow your online business",
-      link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
-      },
-    },
-    {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "EC Lang",
+      techStack: ["Uni Project", "C"],
       description:
-        "Browser extension that records everything happening in a web application",
-      link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
-      },
-    },
-    {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
-      description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "Bytecode compiler with VM for a custom programming language, includes garbage collection and dynamic typing.",
       link: {
         label: "github.com",
-        href: "https://jarocki.me/",
+        href: "https://github.com/haxybaxy/ec-lang",
       },
     },
     {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "Qwicker",
+      techStack: ["Uni Project", "React", "Node.js", "MySQL", "Azure Cloud"],
       description:
-        "Minimalist calendars, habit trackers and planners generator",
-      link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
-      },
-    },
-    {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Generates beautiful wallpapers using random shapes and gradients",
-      link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
-      },
-    },
-    {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
-      link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
-      },
-    },
-    {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
+        "Attendance tracking system for IE University, includes QR code generation and scanning.",
       link: {
         label: "github.com",
-        href: "https://parabol.co/",
+        href: "https://github.com/jose-izarra/attendance_system",
       },
     },
     {
-      title: "Evercast",
-      techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
+      title: "UNO",
+      techStack: ["Uni Project", "PyGame", "Python"],
       description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
+        "Popular card game UNO recreated in Python using PyGame, complete with CPU and graphics.",
       link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
+        label: "github.com",
+        href: "https://github.com/haxybaxy/UNO",
       },
     },
     {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Club Website",
+      techStack: ["Club Project", "Astro.js", "Express.js", "Node.js", "MongoDB"],
       description:
-        "Android application for leading virtual mobile operator in Poland",
+        "Club website for Robotics and AI Club at IE University, includes blog, projects, and events.",
       link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
+        label: "ieroboticsclub.com",
+        href: "https://www.ieroboticsclub.com/",
       },
     },
     {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Howdy is a place for you to join communities you care about",
+      title: "Mind & Mood",
+      techStack: ["Side Project", "React", "Express.js", "Node.js", "MySQL"],
+      description: "Cognitive behavioral therapy platform, fully fledged web application, 50+ current users.",
       link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
+        label: "mindandmood.org",
+        href: "https://www.mindandmood.org/",
       },
-    },
-    {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
-      link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
-      },
-    },
-    {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with sharing your contact details",
-    },
-    {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with booking a table in a restaurants",
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
     },
   ],
 } as const;
