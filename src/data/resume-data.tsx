@@ -98,6 +98,7 @@ export const RESUME_DATA = {
     "NumPy",
     "TensorFlow",
     "PyTorch",
+    "scikit-learn",
     "OpenCV",
     "Docker",
     "C",
