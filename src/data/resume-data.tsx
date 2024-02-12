@@ -1,6 +1,3 @@
-// import {
-//   AmbitLogo,
-// } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
@@ -79,7 +76,7 @@ export const RESUME_DATA = {
         "Designed 50+ posts for social media and helped build club presence on Campus, IEConnects, and Instagram.",
         "Tracking, reporting, and acting on analytics gathered from advertisement campaign responses",
       ],
-        stack: "Adobe Photoshop, Adobe Illustrator, Canva, Buffer",
+      stack: "Adobe Photoshop, Adobe Illustrator, Canva, Buffer",
     },
   ],
   skills: [
@@ -99,6 +96,7 @@ export const RESUME_DATA = {
     "TensorFlow",
     "PyTorch",
     "scikit-learn",
+    "langchain",
     "OpenCV",
     "Docker",
     "C",
@@ -111,7 +109,8 @@ export const RESUME_DATA = {
     "Amazon Web Services",
     "Azure Cloud",
     "Adobe Suite",
-    
+
+
 
   ],
   projects: [
