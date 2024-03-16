@@ -41,7 +41,7 @@ export const RESUME_DATA = {
       link: "https://www.ieroboticsclub.com/",
       badges: [],
       title: "Research Assistant",
-      start: "2023",
+      start: "2024",
       end: "Present",
       description: [
         "Collaborating with professors to implement AI and Blockchain algorithms in a multi-robot system lab.",
