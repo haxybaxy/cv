@@ -32,7 +32,7 @@ export const RESUME_DATA = {
       school: "IE University",
       degree: "Bachelor's Degree in Computer Science and Artificial Intelligence",
       start: "2022",
-      end: "Present",
+      end: "2026",
     },
   ],
   work: [
